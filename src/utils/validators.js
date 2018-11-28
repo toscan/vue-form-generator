@@ -2,7 +2,7 @@ import { defaults, isNil, isNumber, isInteger, isString, isArray, isFunction } f
 import fecha from "fecha";
 
 let resources = {
-	fieldIsRequired: "Le champs est requis!",
+	fieldIsRequired: "This field is required!",
 	invalidFormat: "Invalid format!",
 
 	numberTooSmall: "The number is too small! Minimum: {0}",
